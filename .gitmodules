@@ -1,0 +1,3 @@
+[submodule "dcl-modules/godot-dynamic-gltf-loader"]
+	path = dcl-modules/godot-dynamic-gltf-loader
+	url = https://github.com/you-win/godot-dynamic-gltf-loader
